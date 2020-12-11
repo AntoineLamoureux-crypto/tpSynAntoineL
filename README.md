@@ -27,3 +27,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 Fix du bug pour l'insertion d'image afin que cela soit déployé sur GitHub Pages
+
+1)- Connecter votre projet à votre répertoire Github distant
+git remote add origin https://github.com/AntoineLamoureux-crypto/tpSynAntoineL.git
+
+2)- Préparer (vérifier) les fichiers à envoyer à mon Repo Github (Stage)
+git add .
+///////////////////////////
+git add -A : Stage All (nouveau + modifier, supprimer)
+git add . : Stage All (nouveau + modifier) SEULEMENT
+git add -u : Stage All (modifier, supprimer) SEULEMENT
+
+3)- Commiter les fichiers en état de Stage
+git commit -m "Le message"
+
+4)- Pousser le code
+git push -u origin master
+
+Etape 2
+
+1)-
+2)-Builder de projet
+ng build --prod --base-href="https://AntoineLamoureux-crypto.github.io/TpSynAntoineL/"
