@@ -1,0 +1,94 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "Bogart",
+      "password": "UPa6jm",
+      "emailOffers": false,
+      "interfaceStyle": "Maroon",
+      "subscriptionType": "CA",
+      "notes": ""
+    },
+    {
+      "name": "Wilfred",
+      "password": "IlBBb0AFe",
+      "emailOffers": true,
+      "interfaceStyle": "Mauv",
+      "subscriptionType": "NY",
+      "notes": "khjgkhgjkhjgk",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Massimo",
+      "password": "wMgAbeiOFcBj",
+      "emailOffers": true,
+      "interfaceStyle": "Fuscia",
+      "subscriptionType": "CA",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Arlen",
+      "password": "9cr9LVzA",
+      "emailOffers": true,
+      "interfaceStyle": "Fuscia",
+      "subscriptionType": "CO",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "Teena",
+      "password": "SPTwX6yysu",
+      "emailOffers": true,
+      "interfaceStyle": "Turquoise",
+      "subscriptionType": "FL",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "Robin",
+      "password": "xdEB8j9CUQ",
+      "emailOffers": true,
+      "interfaceStyle": "Fuscia",
+      "subscriptionType": "NJ",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "name": "Jolene",
+      "password": "LZnDbx",
+      "emailOffers": false,
+      "interfaceStyle": "Fuscia",
+      "subscriptionType": "AZ",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "Abra",
+      "password": "RYB9AiCgVO0",
+      "emailOffers": false,
+      "interfaceStyle": "Teal",
+      "subscriptionType": "WA",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "Arlana",
+      "password": "YHCR3W",
+      "emailOffers": false,
+      "interfaceStyle": "Fuscia",
+      "subscriptionType": "PA",
+      "notes": ""
+    },
+    {
+      "name": "jjjujjkghkhgkhjgk",
+      "password": "uuu",
+      "emailOffers": true,
+      "interfaceStyle": "dark",
+      "subscriptionType": "Lifetime",
+      "notes": "jjj",
+      "id": 11
+    }
+  ]
+}
